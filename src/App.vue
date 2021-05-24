@@ -23,8 +23,8 @@ export default {
 
   created () {
     console.log('App.vue')
-    const res = axios.get('https://shindan-test-develop-l68h9on9v-ken3986.vercel.app/api/test')
-    console.log(res)
+    // const res = axios.get('https://shindan-test-develop-l68h9on9v-ken3986.vercel.app/api/test')
+    // console.log(res)
   }
 };
 </script>
